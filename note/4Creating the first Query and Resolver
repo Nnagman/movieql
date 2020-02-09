@@ -1,0 +1,4 @@
+graphql이란 확장자를 가진 파일로 Query를 설명하고
+JS 코드로 이루어진 resolver를 만들면 schema를 define할 수 있다.
+
+언제든지 Query에 설명된 query를 보내면 GraphQL은 JS Object를 보내주고 resolver에 설명된 해당 query의 값을 받을 수 있다.
