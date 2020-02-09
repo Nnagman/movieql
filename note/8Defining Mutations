@@ -1,0 +1,2 @@
+Mutation은 Database의 상태가 변할 때 사용되는 것이다.
+(RDB에서 INSERT나 DELETE같은 경우다.)
