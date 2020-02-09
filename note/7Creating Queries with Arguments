@@ -1,0 +1,1 @@
+GraphQL Resolvers는 GraphQL 서버에서 요청을 받고 GraphQL 서버가 Query나 Mutation의 정의를 발견하면 Resolver를 찾고 함수를 실행시킬 것이다.
