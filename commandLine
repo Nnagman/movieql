@@ -1,8 +1,11 @@
-npm init
+yarn init
 git init .
 git pull origin master
-npm add graphql-yoga
+yarn add graphql-yoga
 git add .
 git commit -m "#1Hello and Introdcution"
 git push origin master
 
+yarn global add babel-cli --ignore-engines
+yarn add babel-cli babel-preset-env babel-preset-stage-3 --dev
+yarn global add nodemon
